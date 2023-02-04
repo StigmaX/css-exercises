@@ -24,7 +24,6 @@ img {
 }
 
 .container .child {
-  flex-direction: row;
   text-align: center;
   width: 200px;
 }
